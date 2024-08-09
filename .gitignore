@@ -1,0 +1,8 @@
+# Hide the following file types
+*.csproj
+*.sln
+*.vs/
+*.config
+*bin/
+*obj/
+*Properties/
